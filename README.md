@@ -1,2 +1,1 @@
-# instagram-post
-User can like a picture of the golden gate bridge.
+https://ethan-ngo.github.io/instagram-post/
